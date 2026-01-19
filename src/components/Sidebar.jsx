@@ -12,7 +12,7 @@ function Sidebar() {
                 </div>
                 <div className="pages">
                      <a  href="#"> <i class="fa-solid fa-magnifying-glass fa-xl "></i> <b> Search </b> </a>   
-                </div>
+                </div> 
         </div>
         <div className="library  rounded">
           <div className="next">
@@ -40,6 +40,7 @@ function Sidebar() {
         
           </div> 
     </>
+    
   )
 }
 
